@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250738188253",
+    "project_id": "dic-app-e8c99",
+    "storage_bucket": "dic-app-e8c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250738188253:android:8c8da0eda9f6861c2ee034",
+        "android_client_info": {
+          "package_name": "com.example.dic_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ekpnL7q3smL2pzuTl3Vz8KPzv0ENZ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250738188253:android:34b27c662d0697222ee034",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ekpnL7q3smL2pzuTl3Vz8KPzv0ENZ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
